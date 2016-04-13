@@ -1,0 +1,1 @@
+County Name	Pixel	Total Trips	Total Intercounty Trips	Total Riders	Average Time b/w Trips	Average AVOBUC	"72.0, 183.0"	20067	20067	156328	2.022823541	4.96180296

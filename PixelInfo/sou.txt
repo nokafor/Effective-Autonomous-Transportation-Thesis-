@@ -1,0 +1,1 @@
+County Name	Pixel	Total Trips	Total Intercounty Trips	Total Riders	Average Time b/w Trips	Average AVOSOU	"5.0, 116.0"	6455	6455	29929	7.535398916	2.849000775

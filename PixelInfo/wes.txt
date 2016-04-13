@@ -1,0 +1,1 @@
+County Name	Pixel	Total Trips	Total Intercounty Trips	Total Riders	Average Time b/w Trips	Average AVOWES	"200.0, 294.0"	3079	3079	14269	15.49171809	3.063624553

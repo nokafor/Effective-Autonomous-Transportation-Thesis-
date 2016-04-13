@@ -1,0 +1,4 @@
+Pixel	Latitude	Longitude	Population	Employment	School Enrollment	Activity Locations
+102, 200	40.350796	-74.65883	1325.0	6617.0	0.0	165.0
+92, 182	40.22055	-74.750651	2530.0	3135.0	118.0	79.0
+99, 192	40.292909	-74.686376	682.0	1735.0	0.0	37.0

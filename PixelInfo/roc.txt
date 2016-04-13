@@ -1,0 +1,1 @@
+County Name	Pixel	Total Trips	Total Intercounty Trips	Total Riders	Average Time b/w Trips	Average AVOROC	"176.0, 310.0"	6939	6939	46739	7.06182447	4.211197579

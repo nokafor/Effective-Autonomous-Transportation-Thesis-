@@ -1,0 +1,1 @@
+County Name	Pixel	Total Trips	Total Intercounty Trips	Total Riders	Average Time b/w Trips	Average AVONOR	"11.0, 236.0"	2719	2719	10286	17.55645458	3.024862082
